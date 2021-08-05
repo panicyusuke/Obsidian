@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "4516d8fcf2da89d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "785127e6740943ac",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Prediction_base.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5dfd23668dca4008",
+    "type": "split",
+    "children": [
+      {
+        "id": "42c83b5647f0cbde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20a339022268e312",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "14c5d705f1ab4068",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d710624156649115",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad5059bf6ae11fe6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e401962cb2287075",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Prediction_base.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "785127e6740943ac",
+  "lastOpenFiles": [
+    "Prediction_base.md",
+    "Go 基本文法.md",
+    "Docker入門.md",
+    "Go入門.md",
+    "無題のファイル.md",
+    "2021-07-28.md",
+    "並列処理.md",
+    "次回来館日の問題.md",
+    "Prediction_次回来館日.md",
+    "Prediction_退会日予測.md"
+  ]
+}
