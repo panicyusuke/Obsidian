@@ -1,5 +1,10 @@
 #Python
 
+## Library
+
+- [[PyTorch]]
+
+
 ## 積んスキル
 
 - 並列処理 cf. [[並列処理]]
@@ -9,4 +14,4 @@
 	- LSTM
 	- RNN
 - ネットワーク理論
-- 
+- Version変更 cf. [[Version変更]]

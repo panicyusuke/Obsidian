@@ -1,0 +1,55 @@
+#Docker 
+
+
+## Etude: 基本操作
+
+コンテナの作成→実行→確認→コンテナの停止→コンテナの削除
+
+1. コンテナの作成と実行
+	`docker run --name apa000ex1 -d httpd`
+2. 確認
+	`docker ps -a`
+3. コンテナの停止
+	`docker stop apa000ex1`
+4. 確認
+	`docker ps -a`
+	
+### コマンドの内訳
+
+`--nama apa000ex1`:  コンテナにapa000ex1 という名前をつける
+`-d`: バックグラウンドで実行する
+`httpd`: `Apache` のイメージ名(バージョンを指定しなければ最新バージョン: `latest` が入る)
+
+`-a`: all, すべて表示の意
+
+### 実行結果
+
+```bash
+
+# 1. コンテナの作成と実行
+$ docker run --name apa000ex1 -d httpd 
+Unable to find image 'httpd:latest' locally
+latest: Pulling from library/httpd
+33847f680f63: Already exists 
+d74938eee980: Pull complete 
+963cfdce5a0c: Pull complete 
+763d74736d95: Pull complete 
+a8c75048351a: Pull complete 
+Digest: sha256:eacdd6c7419ab95b43a258321fc6b38cf56004de4f6a952fc0d96a12730e04de
+Status: Downloaded newer image for httpd:latest
+105b00fb5c00e39b0ab66e7c4b155e06821d82befe8403297c9d374adff83498
+
+$ docker ps -a
+CONTAINER ID   IMAGE          COMMAND                  CREATED         STATUS                    PORTS     NAMES
+105b00fb5c00   httpd          "httpd-foreground"       3 minutes ago   Up 3 minutes              80/tcp    apa000ex1
+53833b1aabb0   mysql:latest   "docker-entrypoint.s…"   15 hours ago    Exited (0) 15 hours ago             test-world-mysql
+
+$ docker stop apa000ex1
+apa000ex1
+
+$ docker ps -a
+CONTAINER ID   IMAGE          COMMAND                  CREATED         STATUS                      PORTS     NAMES
+105b00fb5c00   httpd          "httpd-foreground"       5 minutes ago   Exited (0) 28 seconds ago             apa000ex1
+53833b1aabb0   mysql:latest   "docker-entrypoint.s…"   15 hours ago    Exited (0) 15 hours ago               test-world-mysql
+
+```

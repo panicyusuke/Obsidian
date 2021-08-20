@@ -8,13 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Prediction",
-      "color": {
-        "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
       "query": "tag:#Python",
       "color": {
         "a": 1,
@@ -34,6 +27,20 @@
         "a": 1,
         "rgb": 6084188
       }
+    },
+    {
+      "query": "tag:#GCP",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "tag:#Prediction",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
     }
   ],
   "collapse-display": false,
@@ -46,6 +53,6 @@
   "repelStrength": 9.29411764705882,
   "linkStrength": 1,
   "linkDistance": 188,
-  "scale": 0.6989606412938237,
-  "close": false
+  "scale": 0.4885459780778729,
+  "close": true
 }

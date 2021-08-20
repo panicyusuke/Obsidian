@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "785127e6740943ac",
+        "id": "4ab7e4b123784f50",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Prediction_base.md",
-            "mode": "source"
+            "file": "Python/PyTorch/TorchServe.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prediction_base.md",
+                "file": "Python/PyTorch/TorchServe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "785127e6740943ac",
+  "active": "4ab7e4b123784f50",
   "lastOpenFiles": [
-    "Prediction_base.md",
-    "Go 基本文法.md",
-    "Docker入門.md",
-    "Go入門.md",
-    "無題のファイル.md",
-    "2021-07-28.md",
-    "並列処理.md",
-    "次回来館日の問題.md",
-    "Prediction_次回来館日.md",
-    "Prediction_退会日予測.md"
+    "Python/PyTorch/TorchServe.md",
+    "GCP/AI_Platform.md",
+    "GCP/GAE_Flexible.md",
+    "GCP/GAE_standard.md",
+    "GCP/GCP_Cloud Shell.md",
+    "GCP/GCP_機械学習.md",
+    "GCP/機械学習エンジンのデプロイ.md",
+    "職務経歴書.md",
+    "GCP.md",
+    "無題のファイル.md"
   ]
 }
