@@ -41,6 +41,34 @@
         "a": 1,
         "rgb": 6084269
       }
+    },
+    {
+      "query": "tag:#Linux",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "tag:#AWS",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "tag:#Web技術",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "tag:#情報工学",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
     }
   ],
   "collapse-display": false,
@@ -53,6 +81,6 @@
   "repelStrength": 9.29411764705882,
   "linkStrength": 1,
   "linkDistance": 188,
-  "scale": 0.4885459780778729,
-  "close": true
+  "scale": 0.408443324942199,
+  "close": false
 }
