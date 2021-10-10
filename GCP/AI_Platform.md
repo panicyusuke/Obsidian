@@ -19,7 +19,7 @@
 
 ### 構成要素
 
-- トレーニングサービス
+- トレーニングサービス[[Predictions]]
 - 予測サービス
 - データラベリングサービス
 
@@ -81,3 +81,4 @@ $ gcloud beta artifacts repositories create getting-started-pytorch --repository
 - [クイックスタート: Cloud Storage](https://cloud.google.com/storage/docs/quickstart-gsutil?hl=ja)
 - [スタートガイド: Keras によるトレーニングと予測](https://cloud.google.com/ai-platform/docs/getting-started-keras?hl=ja)
 - [カスタム コンテナを使用した PyTorch 予測の提供](https://cloud.google.com/ai-platform/prediction/docs/getting-started-pytorch-container?hl=ja)
+- [Yolov5_torchserve](https://github.com/jdongca2003/Yolov5_torchserve)

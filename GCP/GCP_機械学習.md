@@ -8,11 +8,11 @@
 ## 選択肢
 
 1. `GCE`, `GAE`でインスタンスを用意してWebアプリとして実装
-2. `AI Platform`
+2. `AI Platform Prediction`
 3. `Cloud Vision API`
 4. `Natural Launguage AI`
 
-### 1. GCE, GAEでインスタンスを用意してWebアプリとして実装
+### 1. GCEでインスタンスを利用してWebアプリとして実装
 
 #### メリット
 
@@ -77,3 +77,6 @@
 
 運用上、`GCE`や、`AI Platform` のいずれかを選択すると小回りが効いて良さそう。
 
+## LINK
+
+- [[機械学習エンジンのデプロイ]]
