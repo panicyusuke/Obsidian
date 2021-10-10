@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "推論",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,14 +89,14 @@
   "active": "4ab7e4b123784f50",
   "lastOpenFiles": [
     "Python/ライブラリ/PyTorch/TorchServe.md",
+    "GCP/AI_Platform.md",
+    "GCP/Predictions.md",
+    "GCP/機械学習エンジンのデプロイ.md",
     "Linux/Linux.md",
     "Docker/Netowork.md",
     "Python/PyTorch/TorchServe.md",
-    "GCP/AI_Platform.md",
     "GCP/GAE_Flexible.md",
     "GCP/GAE_standard.md",
-    "GCP/GCP_Cloud Shell.md",
-    "GCP/GCP_機械学習.md",
-    "GCP/機械学習エンジンのデプロイ.md"
+    "GCP/GCP_Cloud Shell.md"
   ]
 }
