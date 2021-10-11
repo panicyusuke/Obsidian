@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "4f3802f298433de0",
+        "id": "d08ce9e036949cec",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "無題のファイル 2.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -29,8 +32,20 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "4f3802f298433de0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル.md",
+                "mode": "preview"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "42c83b5647f0cbde",
@@ -63,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d710624156649115",
@@ -80,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "無題のファイル 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +112,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4f3802f298433de0",
+  "active": "d08ce9e036949cec",
   "lastOpenFiles": [
+    "無題のファイル 2.md",
+    "Linux/essential_build.md",
+    "無題のファイル 1.md",
+    "無題のファイル.md",
     "Python/Python.md",
     "GCP/GCP.md",
     "GCP/Cloud Shell.md",
     "GCP/GAE/GAE.md",
     "GCP/GAE/Standard.md",
-    "Python/ライブラリ/ライブラリ.md",
-    "Python/ライブラリ/PyTorch/PyTorch.md",
-    "GCP/AI_Platform.md",
-    "GCP/GCP_機械学習.md",
-    "Python/ライブラリ/PyTorch/TorchServe.md"
+    "Python/ライブラリ/ライブラリ.md"
   ]
 }
