@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d08ce9e036949cec",
+        "id": "0a592f22721a650c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "無題のファイル 2.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -21,32 +18,6 @@
     "id": "5dfd23668dca4008",
     "type": "split",
     "children": [
-      {
-        "id": "3f5d9e92e9537575",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4ab7e4b123784f50",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "4f3802f298433de0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "無題のファイル.md",
-                "mode": "preview"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
       {
         "id": "42c83b5647f0cbde",
         "type": "tabs",
@@ -94,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "無題のファイル 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d08ce9e036949cec",
+  "active": "0a592f22721a650c",
   "lastOpenFiles": [
+    "Python/テスト/Pytest.md",
+    "Python/テスト/テスト.md",
+    "情報工学基礎/NFT.md",
     "無題のファイル 2.md",
-    "Linux/essential_build.md",
     "無題のファイル 1.md",
     "無題のファイル.md",
+    "Linux/essential_build.md",
     "Python/Python.md",
     "GCP/GCP.md",
-    "GCP/Cloud Shell.md",
-    "GCP/GAE/GAE.md",
-    "GCP/GAE/Standard.md",
-    "Python/ライブラリ/ライブラリ.md"
+    "GCP/Cloud Shell.md"
   ]
 }
