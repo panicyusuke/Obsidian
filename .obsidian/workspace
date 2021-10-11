@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4ab7e4b123784f50",
+        "id": "4f3802f298433de0",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -18,6 +18,20 @@
     "id": "5dfd23668dca4008",
     "type": "split",
     "children": [
+      {
+        "id": "3f5d9e92e9537575",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ab7e4b123784f50",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
       {
         "id": "42c83b5647f0cbde",
         "type": "tabs",
@@ -49,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d710624156649115",
@@ -82,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4ab7e4b123784f50",
+  "active": "4f3802f298433de0",
   "lastOpenFiles": [
+    "Python/Python.md",
+    "GCP/GCP.md",
+    "GCP/Cloud Shell.md",
+    "GCP/GAE/GAE.md",
+    "GCP/GAE/Standard.md",
+    "Python/ライブラリ/ライブラリ.md",
+    "Python/ライブラリ/PyTorch/PyTorch.md",
     "GCP/AI_Platform.md",
     "GCP/GCP_機械学習.md",
-    "GCP/GCP.md",
-    "Python/ライブラリ/PyTorch/PyTorch.md",
-    "Python/ライブラリ/PyTorch/TorchServe.md",
-    "GCP/Predictions.md",
-    "GCP/機械学習エンジンのデプロイ.md",
-    "Linux/Linux.md",
-    "Docker/Netowork.md",
-    "Python/PyTorch/TorchServe.md"
+    "Python/ライブラリ/PyTorch/TorchServe.md"
   ]
 }
