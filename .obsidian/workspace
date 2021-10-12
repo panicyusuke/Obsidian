@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/TypeScript/TypeScript.md",
+            "file": "JavaScript/TypeScript/React/React.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/TypeScript/TypeScript.md",
+                "file": "JavaScript/TypeScript/React/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1ba2cc085ecd9f73",
   "lastOpenFiles": [
+    "JavaScript/TypeScript/React/React.md",
     "JavaScript/TypeScript/TypeScript.md",
     "JavaScript/無題のファイル.md",
     "JavaScript/TypeScript/無題のファイル.md",
@@ -96,7 +97,6 @@
     "Python/テスト/テスト.md",
     "情報工学基礎/NFT.md",
     "無題のファイル 2.md",
-    "無題のファイル 1.md",
-    "無題のファイル.md"
+    "無題のファイル 1.md"
   ]
 }
