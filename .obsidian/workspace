@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0a592f22721a650c",
+        "id": "1ba2cc085ecd9f73",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "JavaScript/TypeScript/TypeScript.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JavaScript/TypeScript/TypeScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0a592f22721a650c",
+  "active": "1ba2cc085ecd9f73",
   "lastOpenFiles": [
+    "JavaScript/TypeScript/TypeScript.md",
+    "JavaScript/無題のファイル.md",
+    "JavaScript/TypeScript/無題のファイル.md",
+    "JavaScript/TypeScript/React/無題のファイル.md",
     "Python/テスト/Pytest.md",
     "Python/テスト/テスト.md",
     "情報工学基礎/NFT.md",
     "無題のファイル 2.md",
     "無題のファイル 1.md",
-    "無題のファイル.md",
-    "Linux/essential_build.md",
-    "Python/Python.md",
-    "GCP/GCP.md",
-    "GCP/Cloud Shell.md"
+    "無題のファイル.md"
   ]
 }
