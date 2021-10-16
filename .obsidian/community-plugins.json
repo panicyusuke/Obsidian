@@ -1,5 +1,10 @@
 [
-  "obsidian-git",
   "sliding-panes-obsidian",
-  "pdf-to-markdown-plugin"
+  "pdf-to-markdown-plugin",
+  "obsidian-embedded-code-title",
+  "cm-editor-syntax-highlight-obsidian",
+  "table-editor-obsidian",
+  "obsidian-emoji-toolbar",
+  "obsidian-autocomplete-plugin",
+  "emoji-shortcodes"
 ]

@@ -1,7 +1,5 @@
 #GCP 
 
-# AI Platform Prediction
-
 ## SYNOPSIS
 
 `AI Platform` は`PyTorch`, `Tensorflow`, `Keras`などで定義したモデルをデプロイすることの出来るコンテナ実行環境です。

@@ -3,5 +3,5 @@
 # Linuxロードマップ
 
 - [[Makefile]]
-- [[essential_build]]
+- [[Essential build]]
 - 

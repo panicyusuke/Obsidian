@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1ba2cc085ecd9f73",
+        "id": "552e069fc66d041a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/TypeScript/React/React.md",
-            "mode": "source"
+            "file": "Me/はじめまして.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "推論",
+                "query": "AWS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/TypeScript/React/React.md",
+                "file": "Me/はじめまして.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,25 +78,34 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "f904583eae88fe9d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "1ba2cc085ecd9f73",
+  "active": "552e069fc66d041a",
   "lastOpenFiles": [
-    "JavaScript/TypeScript/React/React.md",
-    "JavaScript/TypeScript/TypeScript.md",
-    "JavaScript/無題のファイル.md",
-    "JavaScript/TypeScript/無題のファイル.md",
-    "JavaScript/TypeScript/React/無題のファイル.md",
-    "Python/テスト/Pytest.md",
-    "Python/テスト/テスト.md",
-    "情報工学基礎/NFT.md",
-    "無題のファイル 2.md",
-    "無題のファイル 1.md"
+    "Me/はじめまして.md",
+    "GCP/GAE/Standard.md",
+    "GCP/GAE/Flexible.md",
+    "GCP/GAE/GAE.md",
+    "Me/アナリストへの道.md",
+    "GCP/for_GPU.md",
+    "GCP/GCP.md",
+    "GCP/機械学習.md",
+    "GCP/機械学習エンジンのデプロイ.md",
+    "AWS/AWS.md"
   ]
 }

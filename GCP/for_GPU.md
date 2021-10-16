@@ -1,7 +1,6 @@
 #GCP 
-# AI Platform Prediction
 
-## GPUを有効にする
+# GPUを有効にする
 
 AI Platformでは複数のGPUマシンタイプを選択できるが、`YoLov5`では最も軽量なT4に設定すると良い。
 

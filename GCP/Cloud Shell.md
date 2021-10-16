@@ -1,6 +1,5 @@
 #GCP 
 
-# What is Cloud Shell...?
 まずは...
 `公式ドキュメントより`
 

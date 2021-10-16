@@ -43,9 +43,8 @@ Dockerインストール後や、サーバーの立ち上げ時など、特別�
 
 ### 基本操作
 
-1. [[Docker_基本操作]]
-2. [[Network]]
-3. [[Volume]]
+1. [[Network]]
+2. [[Volume]]
 
 
 ## Docker DB
