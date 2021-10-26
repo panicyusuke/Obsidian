@@ -64,12 +64,16 @@ let circumference: number = 2 * 3.14 * radius // 変数
 ### 型
 
 - 真偽値: [[Boolean]]
-- 配列: [[LIST]]
+- 配列: [[配列]]
 - 型定義: [[AnyとInterfaceとType]]
 - 型複合: [[Intersection]]
-- 返り値なし: [[VOID]]
+- 返り値なし: [[void]]
 - 連想配列: [[Object]]
 
+### 関数とクラス
+
+- 関数: [[function]]
+- クラス: [[クラス]]
 
 ## UI
 

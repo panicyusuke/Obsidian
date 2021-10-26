@@ -2,33 +2,43 @@
 
 # はじめに
 
-`AI Platform` は、GCP の持つ機械学習の`SaaS`の総称であり、その機能は複雑である。
-その中でも今回は`Prediction` を用いて、画像内の人間の数をカウントするシステムを構築する。
-また、`PyTorch` 及び`YoLov5` が組み込まれた予測エンジンをデプロイし、任意の画像をPOSTし、その予測結果をレスポンスとして返すシステムを構築する。
+`旧 AI Platform(新 Vertex AI)` は、GCP の持つ機械学習リソースの総称である。
 
-### Requirements
+その中でも今回は`Prediction` を用いて、画像内の人間の数をカウントするシステムの構築方法について説明する。
+
+ここでは、`YoLov5` が組み込まれた予測エンジンを[TorchServe](https://pytorch.org/serve/)を利用してデプロイし、base64でエンコードされた画像をサーバーに送信し、その予測結果をレスポンスとして返すシステムについて説明する。
+
+参考: [Vertex AI](https://cloud.google.com/vertex-ai) 
+
+## Requirements
 
 - [Docker](https://www.docker.com/)
 - [Google Cloud SDK](https://cloud.google.com/sdk/docs/install?hl=JA)
 - [サービスアカウントキー(JSON)](https://cloud.google.com/iam/docs/creating-managing-service-account-keys?hl=ja)
+- [Python仮想環境( -venv )](https://docs.python.org/ja/3/library/venv.html)
+	- [PyTorch](https://pytorch.org/)
+	- [TorchServe](https://pytorch.org/serve/)
+
+## GCPリソース
+
+- [Artifact Registory(旧 Container Registry)](https://cloud.google.com/artifact-registry?hl=ja)
+- [[Cloud Storage]]
+- [[Predictions]]
+- [[GCP/Compute Engine/Compute Engine]]
 
 ## AI Platform
 
 `公式ドキュメントより`
 > AI Platform を使用すると、大規模な機械学習モデルをトレーニングして、トレーニング済みモデルをクラウドでホストし、モデルを使用して新しいデータについて予測できます。
 
-### 構成要素
+- 学習: [[Predictions]]
+- 推論: [[Training]]
+- データラベリング・アノテーション
 
-- トレーニングサービス[[Predictions]]
-- 予測サービス
-- データラベリングサービス
-
-### AI Platform for Pytorch
 
 #### 1. Cloud Storage でバケットを作成
 
-例:
-`test-crowd` という名前でバケットを作成
+`development_bucket` という名前でバケットを作成
 
 ```bash
 

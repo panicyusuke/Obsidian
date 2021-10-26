@@ -8,79 +8,23 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Python",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "tag:#Go",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
-      "query": "tag:#Docker",
-      "color": {
-        "a": 1,
-        "rgb": 6084188
-      }
-    },
-    {
       "query": "tag:#GCP",
       "color": {
         "a": 1,
-        "rgb": 6084269
-      }
-    },
-    {
-      "query": "tag:#Prediction",
-      "color": {
-        "a": 1,
-        "rgb": 6084269
-      }
-    },
-    {
-      "query": "tag:#Linux",
-      "color": {
-        "a": 1,
-        "rgb": 6073814
-      }
-    },
-    {
-      "query": "tag:#AWS",
-      "color": {
-        "a": 1,
-        "rgb": 6053078
-      }
-    },
-    {
-      "query": "tag:#Web技術",
-      "color": {
-        "a": 1,
-        "rgb": 11361494
-      }
-    },
-    {
-      "query": "tag:#情報工学",
-      "color": {
-        "a": 1,
-        "rgb": 14048429
+        "rgb": 14048348
       }
     }
   ],
   "collapse-display": false,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.62764705882353,
+  "nodeSizeMultiplier": 0.760674157303371,
   "lineSizeMultiplier": 2.66529411764706,
   "collapse-forces": false,
-  "centerStrength": 0.270588235294118,
-  "repelStrength": 9.29411764705882,
-  "linkStrength": 1,
+  "centerStrength": 0.112359550561798,
+  "repelStrength": 1.46067415730337,
+  "linkStrength": 0.185393258426966,
   "linkDistance": 188,
-  "scale": 0.40844332494218977,
+  "scale": 0.6989606412938006,
   "close": true
 }
