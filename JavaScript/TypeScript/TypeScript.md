@@ -14,6 +14,13 @@ Etude_React ❯❯❯ npm init -y
 # 必要モジュールをインストール
 Etude_React ❯❯❯ npm install @mui/material typescript @types/node ts-node ts-node-dev axios
 
+# index.ts をrootに作成
+Etude_React ❯❯❯ touch index.ts
+
+# 現在地を確認
+Etude_React ❯❯❯ pwd
+/home/harapeco/go/src/gitlab.com/panicysk/etude_react
+
 # ts-nodeを使用してコンパイルと実行を同時に行う(一括実行)
 Etude_React ❯❯❯ npx ts-node-dev index.ts
 
