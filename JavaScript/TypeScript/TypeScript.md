@@ -1,7 +1,5 @@
 #TypeScript 
 
-# TypeScript
-
 ## Setup TypeScript Environment
 
 (tscコマンドは使わない。コンパイル→実行の流れが面倒なので)

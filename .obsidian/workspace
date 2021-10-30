@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "4516d8fcf2da89d7",
+    "id": "c4da917f431ac9ab",
     "type": "split",
     "children": [
       {
-        "id": "3c04fc565e0a60c4",
+        "id": "470e1f463d9fbde0",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "AWS",
+                "query": "認証と",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,25 +87,24 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "3c04fc565e0a60c4",
+  "active": "470e1f463d9fbde0",
   "lastOpenFiles": [
     "Me/はじめまして.md",
-    "Me/考えていること.md",
-    "GCP/認証・認可/認証・認可.md",
-    "GCP/GCP.md",
-    "GCP/Compute Engine.md",
-    "GCP/Security/Security.md",
-    "GCP/Security/Secret Manager.md",
-    "GCP/Security/Security Command Center.md",
-    "GCP/App Engine/Flexible.md",
-    "GCP/App Engine/Standard.md"
+    "templates/my_script.js.md",
+    "templates/ga4.md",
+    "Me/アナリストへの道.md",
+    "AWS/Elastic Load Balancing.md",
+    "Docker/DB/DB.md",
+    "aws_query_editor_front.png",
+    "Docker/Local Dynamo DB.md",
+    "Docker/Docker.md",
+    "情報工学基礎/情報工学基礎.md"
   ]
 }
