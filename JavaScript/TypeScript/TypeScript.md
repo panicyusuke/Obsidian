@@ -33,6 +33,7 @@ Etude_React ❯❯❯ npx ts-node-dev --respawn index.ts
 `index.ts`
 ```ts
 
+export {}
 const message: string = "message"  
 console.log({message})
 
@@ -46,8 +47,10 @@ JavaScriptはモジュールシステムを採用していないため、宣言�
 `export {}` があれば単一モジュール（ファイル）内の変数として認識される。
 
 ```typescript
+
 export {}
 let name = "TypeScript"
+
 ```
 
 
@@ -61,7 +64,6 @@ let やconstはES2015から定義された新しい記法であり、var使用�
 const pie: number = 3.14 // 定数
 let radius: number = 10 // 変数
 let circumference: number = 2 * 3.14 * radius // 変数
-
 
 ```
 
