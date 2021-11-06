@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Me/ぼくはなぜナレッジベースを作ろうと思ったか。.md",
+            "file": "Me/はじめまして.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Me/ぼくはなぜナレッジベースを作ろうと思ったか。.md",
+                "file": "Me/はじめまして.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +96,8 @@
   },
   "active": "62cdf4cfa9677439",
   "lastOpenFiles": [
-    "Me/ぼくはなぜナレッジベースを作ろうと思ったか。.md",
     "Me/はじめまして.md",
+    "Me/ぼくはなぜナレッジベースを作ろうと思ったか。.md",
     "test.md",
     "Me/失敗談.md",
     "Me/技術.md",
