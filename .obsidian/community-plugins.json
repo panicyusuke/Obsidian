@@ -7,5 +7,6 @@
   "obsidian-emoji-toolbar",
   "emoji-shortcodes",
   "templater-obsidian",
-  "customjs"
+  "customjs",
+  "obsidian-plantuml"
 ]
