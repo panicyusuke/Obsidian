@@ -10885,3 +10885,5 @@ function gtag() {
 gtag('js', new Date());
 
 gtag('config', 'G-4Q2MRL1K2Y');
+
+console.log("this is ga tag")
