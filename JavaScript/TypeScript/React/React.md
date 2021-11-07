@@ -5,6 +5,10 @@
 すべてTypeScriptで書くこと。（JavaScriptに支配されないように）
 
 
+## まずはじめにすること
+
+一箇所でデータを管理するための[[Store]]を設計する。
+
 ## Step of Development
 
 ## コンポーネントとは
