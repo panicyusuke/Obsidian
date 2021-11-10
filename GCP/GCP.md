@@ -1,8 +1,45 @@
 #GCP 
 
+`GCP(Google Cloud Platform)` とは...
+
+![340*340](google.png.png)
+
+Google が提供しているエンドユーザー10億人つよつよサービスのうちの一つ。
+Google の8番目のプロダクトと言われている。
+
+1. Google検索
+2. Android
+3. Google Map
+4. GMail
+5. Google Play
+6. YouTube
+7. Google Chrome
+8. `Google Cloud Platform`
+
+# GCPのコアインフラ
+
+Webシステムに必要な五大インフラを提供する。
+
+- BigData and ML Products
+- Compute Power
+- Storage
+- Networking
+- Security
+
+この中でも有名なのは`Compute Power` で、
+`Compute Engine`, `Kubernetes Engine` などのリソースが提供されている。
+
 類似サービスに[Amazon Web Services](AWS)や[Microsoft Azure](https://azure.microsoft.com/ja-jp/)がある。
 
+GCPの素晴らしさについて語りたいので興味ある人は 👉 [[GCPはいいぞ]]
+
 ## 開発
+
+さて、GCPで開発を進めようと思っても、実際に何から始めたらいいのだろうか。
+とりあえずローカルにコードを書く...とか？
+GCPアカウントを作る...とか？
+
+
 
 - GCPのクラウド実行環境: [[Cloud Shell]]
 - GCPリソースをローカルで実行するためのコマンド群: [[commands]]
@@ -14,7 +51,7 @@ Webサーバー、ファイルサーバー、データベースサーバー、�
 これまでのオンプレサーバーからの移行も比較的容易。
 コンピュータを間借りすることになるので、コストは高くなりやすい。
 
-- [[GCP/Compute Engine]]
+- [[Compute Engine]]
 - `Kubernets Engine` (T.B.D.)
 - `VMware Engine` (T.B.D.)
 

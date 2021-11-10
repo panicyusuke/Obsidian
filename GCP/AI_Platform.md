@@ -24,7 +24,7 @@
 - [Artifact Registory(旧 Container Registry)](https://cloud.google.com/artifact-registry?hl=ja)
 - [[Cloud Storage]]
 - [[Predictions]]
-- [[GCP/Compute Engine/Compute Engine]]
+- [[GCP/Compute Power/Compute Engine]]
 
 ## AI Platform
 
