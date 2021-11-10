@@ -32,6 +32,7 @@ Webシステムに必要な五大インフラを提供する。
 類似サービスに[Amazon Web Services](AWS)や[Microsoft Azure](https://azure.microsoft.com/ja-jp/)がある。
 
 GCPの素晴らしさについて語りたいので興味ある人は 👉 [[GCPはいいぞ]]
+Googleの思想、素晴らしさに興味ある人は 👉 [[Googleの思想]]
 
 ## 開発
 
