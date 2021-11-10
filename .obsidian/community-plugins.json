@@ -8,5 +8,6 @@
   "emoji-shortcodes",
   "templater-obsidian",
   "customjs",
-  "obsidian-plantuml"
+  "obsidian-plantuml",
+  "obsidian-git"
 ]
