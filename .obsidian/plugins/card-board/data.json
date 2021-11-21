@@ -1,0 +1,22 @@
+{
+  "version": "0.1.0",
+  "data": {
+    "boardConfigs": [
+      {
+        "tag": "tagBoardConfig",
+        "data": {
+          "columns": [
+            {
+              "tag": "aa",
+              "displayTitle": "Aa"
+            }
+          ],
+          "completedCount": 10,
+          "includeOthers": false,
+          "includeUntagged": false,
+          "title": "todo"
+        }
+      }
+    ]
+  }
+}

@@ -34,6 +34,15 @@ Webシステムに必要な五大インフラを提供する。
 GCPの素晴らしさについて語りたいので興味ある人は 👉 [[GCPはいいぞ]]
 Googleの思想、素晴らしさに興味ある人は 👉 [[Googleの思想]]
 
+## Firebaseとの違い
+
+`GCP` は、あらゆるサービスを内包しているので、XaaS(X as a service)と言える。
+`Firebase` は、mBaaS(micro Backend as a service)。
+`Firebase` は、バックエンドの実装を省略または縮小できるので、バックエンドエンジニアがいないチームや、簡易的なシステムを作る場合は色々と楽できることで知られている。（データベースや認証なども、`Firebase` に用意されているAPIを用いることで、ロジックの実装コストをスキップできる。）
+
+- ？aaSがややこしすぎる 👉 [◯aaSに何があるか知っていますか？](https://career.levtech.jp/guide/knowhow/article/389/)
+- FirebaseとGCPの違い 👉 [FirebaseとGoogle Cloudの違い](https://cloud-ace.jp/column/detail210/)
+
 ## 開発
 
 さて、GCPで開発を進めようと思っても、実際に何から始めたらいいのだろうか。

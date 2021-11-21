@@ -9,5 +9,7 @@
   "templater-obsidian",
   "customjs",
   "obsidian-plantuml",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-excalidraw-plugin",
+  "card-board"
 ]
