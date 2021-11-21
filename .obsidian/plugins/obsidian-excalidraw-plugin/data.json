@@ -34,6 +34,6 @@
   "library": "{\"type\":\"excalidrawlib\",\"version\":1,\"library\":[]}",
   "patchCommentBlock": false,
   "imageElementNotice": true,
-  "runWYSIWYGpatch": true,
-  "fixInfinitePreviewLoop": true
+  "runWYSIWYGpatch": false,
+  "fixInfinitePreviewLoop": false
 }

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ツール/アクセス解析ツール/アクセス解析ツール.md",
+            "file": "開発方式/オブジェクト指向/多態性(ポリモーフィズム).md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ツール/アクセス解析ツール/アクセス解析ツール.md",
+                "file": "開発方式/オブジェクト指向/多態性(ポリモーフィズム).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "c06b245846ed42f9",
   "lastOpenFiles": [
+    "開発方式/オブジェクト指向/多態性(ポリモーフィズム).md",
+    "開発方式/オブジェクト指向/オブジェクト指向.md",
+    "API/Twitter/Twitter API.md",
     "ツール/アクセス解析ツール/アクセス解析ツール.md",
+    "JavaScript/TypeScript/React/Store.md",
+    "JavaScript/JavaScript.md",
+    "ツール/アクセス解析ツール/なぜ直帰率がなくなったか.md",
+    "Products/BoostFollower/BoostFollower.md",
     "ツール/DB/DBクライアントソフト.md",
-    "ツール/設計/アーキテクチャ図.md",
-    "ツール/設計/設計.md",
-    "ツール/ツール.md",
-    "images/google.png.png",
-    "images/詳解.png",
-    "images/概要.png",
-    "GCP/GCP.md",
-    "Products/Products.md"
+    "ツール/設計/アーキテクチャ図.md"
   ]
 }

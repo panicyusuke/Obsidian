@@ -48,4 +48,8 @@ Twitterへの自分の投稿
 
 # KPI
 
-# 
+# Reference
+
+![[Screenshot from 2021-11-21 15-47-49.png]]
+
+- [Tweriod](https://ferret-plus.com/8207)
