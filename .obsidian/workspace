@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c06b245846ed42f9",
+        "id": "4768e1f6f896a28d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "ツール/アクセス解析ツール/アクセス解析ツール.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "GCP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 462
   },
   "right": {
     "id": "d710624156649115",
@@ -94,17 +94,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c06b245846ed42f9",
+  "active": "4768e1f6f896a28d",
   "lastOpenFiles": [
     "ツール/アクセス解析ツール/アクセス解析ツール.md",
+    "ツール/アクセス解析ツール/Google Analytics 360(UA)/Google Analytics 360(UA).md",
+    "Me/思想/Google/GCPはいいぞ.md",
+    "GCP/GCP.md",
+    "Me/はじめまして.md",
+    "Me/技術.md",
+    "Me/ぼくはなぜナレッジベースを作ろうと思ったか。.md",
+    "Me/ぼくのあたまのなかが完成しない言い訳.md",
     "ツール/アクセス解析ツール/なぜ直帰率がなくなったか.md",
-    "開発方式/オブジェクト指向/DI.md",
-    "Products/Products.md",
-    "開発方式/オブジェクト指向/多態性(ポリモーフィズム).md",
-    "開発方式/オブジェクト指向/オブジェクト指向.md",
-    "API/Twitter/Twitter API.md",
-    "JavaScript/TypeScript/React/Store.md",
-    "JavaScript/JavaScript.md",
-    "Products/BoostFollower/BoostFollower.md"
+    "Me/失敗談.md"
   ]
 }

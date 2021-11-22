@@ -10941,3 +10941,25 @@ const insertFileNamesIntoCodeBlocks = () => {
 };
 
 setInterval(insertFileNamesIntoCodeBlocks, 1000);
+
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "https://www.gstatic.com/firebasejs/9.5.0/firebase-app.js";
+import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.5.0/firebase-analytics.js";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+const firebaseConfig = {
+  apiKey: "AIzaSyBUKxS89tyOeOSdOp2GZM25o-PwwCwuWRI",
+  authDomain: "my-brain-obsidian-firebase.firebaseapp.com",
+  projectId: "my-brain-obsidian-firebase",
+  storageBucket: "my-brain-obsidian-firebase.appspot.com",
+  messagingSenderId: "750073980940",
+  appId: "1:750073980940:web:264588b3de3cd6d430e629",
+  measurementId: "G-R2XCCTHKME"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+const analytics = getAnalytics(app);
