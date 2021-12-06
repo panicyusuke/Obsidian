@@ -12,7 +12,7 @@
 ![Redux概念図](https://future-architect.github.io/images/20200429/1.png)
 
 **State**：アプリケーションの状態  
-**Action**：ユーザーが何押したいかという情報を持つオブジェクト  
+**Action**：ユーザーが何をしたいかという情報を持つオブジェクト  
 **Reducer**：Actionを元にStateを更新するメソッド  
 **Store**：Stateの情報を保持している場所
 
@@ -23,3 +23,11 @@
 ## Reference
 
 - [Reduxを分かりやすく解説してみた](https://future-architect.github.io/articles/20200429/)
+
+```
+function increment(obj=object,action){
+	obj.num=object.num+1
+	return obj
+	}
+const object = {num:1}
+```

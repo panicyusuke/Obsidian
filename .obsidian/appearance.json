@@ -1,6 +1,9 @@
 {
-  "baseFontSize": 16,
+  "baseFontSize": 15,
   "theme": "moonstone",
   "translucency": false,
-  "cssTheme": ""
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "obsidian_code_block"
+  ]
 }

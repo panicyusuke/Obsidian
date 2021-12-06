@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4768e1f6f896a28d",
+        "id": "6d05821ac6585b3b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ツール/アクセス解析ツール/アクセス解析ツール.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "GCP",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ツール/アクセス解析ツール/アクセス解析ツール.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +82,14 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "f4e2728091dc59ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
         ]
       }
@@ -94,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4768e1f6f896a28d",
+  "active": "6d05821ac6585b3b",
   "lastOpenFiles": [
-    "ツール/アクセス解析ツール/アクセス解析ツール.md",
-    "ツール/アクセス解析ツール/Google Analytics 360(UA)/Google Analytics 360(UA).md",
-    "Me/思想/Google/GCPはいいぞ.md",
-    "GCP/GCP.md",
-    "Me/はじめまして.md",
-    "Me/技術.md",
-    "Me/ぼくはなぜナレッジベースを作ろうと思ったか。.md",
-    "Me/ぼくのあたまのなかが完成しない言い訳.md",
-    "ツール/アクセス解析ツール/なぜ直帰率がなくなったか.md",
-    "Me/失敗談.md"
+    "JavaScript/TypeScript/React/component/@mui-material.md",
+    "Python/Tips/Version変更.md",
+    "Me/経験/スタートアップアンチパターン.md",
+    "ツール/アクセス解析ツール/Google Analytics 4/Google Analytics 4.md",
+    "ツール/アクセス解析ツール/Firebase Analytics/Firebase Analytics.md",
+    "custom css.md",
+    "ツール/アクセス解析ツール/Google Tag Manager.md",
+    "Me/経験/失敗リスト/互いの価値観を理解できなければ、必ず衝突を起こす.md",
+    "Me/経験/失敗リスト/ビジネスモデル選定は命がけで行うこと.md",
+    "ツール/アクセス解析ツール/なぜ直帰率がなくなったか.md"
   ]
 }

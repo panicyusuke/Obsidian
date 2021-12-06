@@ -1,6 +1,5 @@
 [
   "sliding-panes-obsidian",
-  "pdf-to-markdown-plugin",
   "obsidian-embedded-code-title",
   "cm-editor-syntax-highlight-obsidian",
   "table-editor-obsidian",
@@ -9,8 +8,8 @@
   "templater-obsidian",
   "customjs",
   "obsidian-plantuml",
-  "obsidian-git",
   "obsidian-excalidraw-plugin",
   "card-board",
-  "obsidian-rich-links"
+  "obsidian-rich-links",
+  "obsidian-style-settings"
 ]

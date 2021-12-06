@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="@www.googleapis.com/bigquery/v2" uuid="7578d8d4-b8ab-4863-8b3f-2c52901de428">
+      <driver-ref>bigquery</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.simba.googlebigquery.jdbc42.Driver</jdbc-driver>
+      <jdbc-url>jdbc:bigquery://https://www.googleapis.com/bigquery/v2:443;ProjectId=my-brain-obsidian;OAuthType=0;OAuthServiceAcctEmail=pycharm-obsidian@my-brain-obsidian.iam.gserviceaccount.com;OAuthPvtKeyPath=./my-brain-obsidian-ce5390b4dd7e.json</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
