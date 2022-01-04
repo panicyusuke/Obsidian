@@ -10,5 +10,8 @@
     "downscalePercent": 100
   },
   "defaultViewMode": "preview",
-  "foldHeading": true
+  "foldHeading": true,
+  "fileSortOrder": "byModifiedTime",
+  "legacyEditor": true,
+  "livePreview": true
 }
